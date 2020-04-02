@@ -25,7 +25,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "airbnb-base"
+      "airbnb-base",
+      "prettier"
     ]
   }
 }
