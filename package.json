@@ -28,5 +28,8 @@
       "airbnb-base",
       "prettier"
     ]
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
